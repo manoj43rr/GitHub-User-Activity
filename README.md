@@ -32,7 +32,9 @@ The GitHub Activity Fetcher is a command-line application that retrieves and dis
   Replace <username> with the GitHub username you want to query.
 
 Example
-python github_activity.py kamranahmedse
+python github_activity.py rcAmith
 
+
+you can find the link to the project here : https://roadmap.sh/projects/github-user-activity
 
 ***Happy Coding!***
